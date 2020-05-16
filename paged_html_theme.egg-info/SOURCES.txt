@@ -1,7 +1,0 @@
-README.md
-setup.py
-paged_html_theme.egg-info/PKG-INFO
-paged_html_theme.egg-info/SOURCES.txt
-paged_html_theme.egg-info/dependency_links.txt
-paged_html_theme.egg-info/entry_points.txt
-paged_html_theme.egg-info/top_level.txt
