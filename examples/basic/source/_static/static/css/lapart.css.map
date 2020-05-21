@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAaA,AAAA,OAAO,CAAC;EAZP,gBAAgB,EAaA,OAAO;EAZvB,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAuB;EACzC,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,UAAU;CAWnB;;AAFD,AAPC,OAOM,AAPL,MAAM,CAAC;EACP,MAAM,EAAE,OAAO;EACf,gBAAgB,EAAE,OAAuB;EACzC,YAAY,EAAE,OAAuB;CACrC",
-    "sources": [
-        "../../src/lapart.scss"
-    ],
-    "names": [],
-    "file": "lapart.css"
-}
