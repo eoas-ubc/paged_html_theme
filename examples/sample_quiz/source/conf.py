@@ -40,7 +40,8 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['build', 'Thumbs.db', '.DS_Store', 'README.md', '.ipynb_checkpoints']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'README.md', '.ipynb_checkpoints']
+source_suffix = ['.ipynb']
 
 
 # -- Options for HTML output -------------------------------------------------
