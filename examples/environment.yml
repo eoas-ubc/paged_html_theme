@@ -1,5 +1,6 @@
 name: theme_dev
 channels:
+  - eoas_ubc
   - conda-forge
   - defaults
 dependencies:
@@ -9,6 +10,7 @@ dependencies:
   - sphinx=2.4.4
   - ghp-import
   - numpy
+  - runjb
   - pip
   - pip:
     - git+https://github.com/executablebooks/MyST-NB.git
