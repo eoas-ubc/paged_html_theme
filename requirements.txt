@@ -1,6 +1,9 @@
-click_log
-click_completion
-jupytext
-jupyter-sphinx
-MyST-NB
-
+linkify-it-py
+pydata-sphinx-theme
+sphinx-panels
+myst-nb >=0.11
+nested_lookup
+sphinx_togglebutton
+jupyter_cache
+sphinx_book_theme
+myst_parser ~=0.13

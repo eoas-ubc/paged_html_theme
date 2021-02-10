@@ -7,6 +7,10 @@ dependencies:
   - python=3.8
   - importlib_resources
   - click
+  - mamba
+  - conda-lock
+  - jupyter_sphinx
+  - sqlalchemy
   - sphinx>3.1
   - jupyter
   - jupytext

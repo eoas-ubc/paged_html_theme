@@ -32,6 +32,19 @@ extensions = [
     "sphinx.ext.mathjax",
 ]
 
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "html_image",
+    "replacements",
+    "smartquotes",
+    "substitution"
+]
+
+numfig = True
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
